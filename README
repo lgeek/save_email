@@ -1,0 +1,4 @@
+save_email
+==========
+
+Quick sinatra hack to collect emails on a landing page. Should be straightforward to customise.
